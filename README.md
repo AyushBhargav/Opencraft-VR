@@ -1,5 +1,5 @@
 # Opencraft-VR
-My academic project for Mobile Development Lab. It is basically a minecraft clone which you can play with google cardboard.
+My academic project for Mobile App Development Lab. It is basically a minecraft clone which you can play with google cardboard.
 
 ## Features
 1. Infinite world creation like one in Minecraft. I used perlin noise for this.
